@@ -8,4 +8,6 @@ This repository contains information, design files and instructions on how to mo
 
 Steps one a two are pretty straightforward and don't require any specialized replacement parts (instructional resources are available in the wiki). Step 3 is the most challenging. The mods covered here all rely on a specific type of film advance mechanism commonly found in motor driven SLRs from the 1990s. It involves replacing a small PCB with a custom part, which changes how the camera counts the number of sprocket holes being advanced. More details can be found on the wiki. PCB design files are stored in the repo, which can be downloaded and used to order parts from online PCB manufacturing services. For these electronic cameras, step 4 is often unnecessary, and the camera will count the correct number of frames after conversion.
 
+![Pentax Z-1 Sprocket Counter](/assets/images/Pentax%20Z-1%20Sprocket%20Counter.jpg)
+
 A list of cameras eligible for modification are listed here. It is not an exhaustive list but it does cover most of the major camera systems of the era. I will update the list as new camera mods are developed and tested.
