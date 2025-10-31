@@ -14,7 +14,6 @@ This repository contains information, design files and instructions on how to mo
   width="400"
   align="right">  
   
-Steps one a two are pretty straightforward and don't require any specialized replacement parts (instructional resources are available in the wiki). Step 3 is the most challenging. The mods covered here all rely on a specific type of film advance mechanism commonly found in motor driven SLRs from the 1990s. It involves replacing a small PCB with a custom part, which changes how the camera counts the number of sprocket holes being advanced. More details can be found on the wiki. PCB design files are stored in the repo, which can be downloaded and used to order parts from online PCB manufacturing services. For these electronic cameras, step 4 is often unnecessary, and the camera will count the correct number of frames after conversion.
-<br clear="left"/>
+Steps one a two are pretty straightforward and don't require any specialized replacement parts (instructional resources are available in the wiki). Step 3 is the most challenging. The mods covered here all rely on a specific type of film advance mechanism commonly found in motor driven SLRs from the 1990s. It involves replacing a small PCB with a custom part, which changes how the camera counts the number of sprocket holes being advanced. PCB design files are stored in the repo, which can be downloaded and used to order parts from online PCB manufacturing services. For these electronic cameras, step 4 is often unnecessary, and the camera will count the correct number of frames after conversion.
 
-A list of cameras eligible for modification are listed here. It is not an exhaustive list but it does cover most of the major camera systems of the era. I will update the list as new camera mods are developed and tested.
+More details about how the mod works and what cameras can be converted are located in the [wiki](https://github.com/vandergus/sprocket-mods/wiki). 
