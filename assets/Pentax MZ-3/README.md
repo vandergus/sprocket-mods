@@ -10,3 +10,9 @@ The gerber files located here are custom sprocket counter PCBs that create a hal
 * Pentax MZ-5 | ZX-5
 * Pentax MZ-6
 * Pentax MZ-L | ZX-L
+* Pentax MZ-7 | ZX-7
+* Pentax MZ-10 | ZX-10
+* Pentax MZ-30 | ZX-30
+* Pentax MZ-50 | ZX-50
+* Pentax MZ-60 | ZX-60
+* Pentax MZ-M | ZX-M
