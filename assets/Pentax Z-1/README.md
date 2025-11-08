@@ -3,7 +3,7 @@ There are gerber files available for both half-frame and square-frame film advan
 * Board Thickness: 0.6 mm
 * Surface Finish: ENIG
 
-The PCBs are compatible with the following camera models
+### Compatible Models
 
 * Pentax Z-1
 * Pentax PZ-1
