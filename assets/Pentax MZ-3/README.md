@@ -14,5 +14,4 @@ The gerber files located here are for custom sprocket counter PCBs that create a
 * Pentax MZ-10 | ZX-10
 * Pentax MZ-30 | ZX-30
 * Pentax MZ-50 | ZX-50
-* Pentax MZ-60 | ZX-60
 * Pentax MZ-M | ZX-M
