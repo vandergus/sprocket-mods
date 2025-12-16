@@ -9,3 +9,5 @@ There are gerber files available for both half-frame and square-frame film advan
 * Pentax PZ-1
 * Pentax Z-1p
 * Pentax PZ-1p
+* Pentax Z-5
+* Pentax Z-5p
