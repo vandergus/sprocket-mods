@@ -7,3 +7,5 @@ There are gerber files available for both half-frame and square-frame film advan
 
 * Nikon F60
 * Nikon N60
+* Nikon F50
+* Nikon N50
